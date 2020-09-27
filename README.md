@@ -29,4 +29,8 @@ pip install PyQt5
 python main_GUI.py
 ```
 
+**Test with any image in the low_resolution_images directory**
+
+![image](https://github.com/fbasatemur/SRCNN_Image_Restoration/blob/master/doc/ss_monarch.jpg)
+
 
